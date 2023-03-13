@@ -1,15 +1,21 @@
-## Contact ☎️
+# My GitHub Profile
 
-## Skills 📖
+Hi, I'm [your name], and this is my GitHub profile. Here you'll find some of my open-source projects and contributions to the community.
 
-## Tool 🛠️
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>  
-<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=FFFFFF"/> 
+## Projects
 
+- [Project 1](https://github.com/user/project1): Description of project 1.
+- [Project 2](https://github.com/user/project2): Description of project 2.
+- [Project 3](https://github.com/user/project3): Description of project 3.
 
-## Spec 💪
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojin065)](https://github.com/heebum99/github-readme-stats)
+## Skills
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woojin0605)](https://solved.ac/heebum9955/)
+- Programming languages: Python, Java, C++
+- Web development: HTML, CSS, JavaScript
+- Data analysis: Pandas, Numpy, Scikit-learn
 
+## Contact
+
+- Email: [your email address]
+- LinkedIn: [your LinkedIn profile]
+- Twitter: [your Twitter handle]
