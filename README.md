@@ -14,4 +14,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woojin0605)](https://solved.ac/heebum9955/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woojin065&layout=compact)](https://github.com/woojin065/github-readme-stats)
