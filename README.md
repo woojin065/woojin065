@@ -5,27 +5,12 @@
 <img src="https://img.shields.io/badge/kik995500@naver.com-EA4335?style=plastic&logo=Gmail&logoColor=FFFFFF"/>
 
 ## Skills 📖
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/>  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/C%2b%2b-00599C?style=flat&logo=C%2b%2b&logoColor=FFFFFF"/>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/Java-orange?style=flat&logo=Java&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C%2b%2b-00599C?style=flat&logo=C%2b%2b&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> 
 
 ## Tool 🛠️
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF"/>  
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"/>  
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>  
-<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>  
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=FFFFFF"/> 
 
 
 ## Spec 💪
