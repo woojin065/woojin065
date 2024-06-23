@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woojin065&theme=tokyonight" alt="woojin065" /></a> </p>
 
-- 🌱 I’m currently learning **spring**
-
-- 📫 How to reach me **marty0605@naver.com**
+- 현재 진행중인 프로젝트
+  - More, View
+  - Dev Tinos
 
 <div> <a href="https://github.com/woojin065" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:marty0605@naver.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
